@@ -20,7 +20,7 @@ This project focuses on **credit risk analysis**, where we leverage **machine le
   - Accuracy, Precision, Recall, F1-score, and ROC-AUC metrics.
   - Hyperparameter tuning using GridSearchCV.
 
-- 📊 **Tableau Visualizations**:
+📊 **Tableau Visualizations**:
 
   - Interactive dashboards highlighting applicant loan behavior, payment trends, and default probabilities.
 
